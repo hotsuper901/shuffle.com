@@ -39,11 +39,11 @@ This ensures you're not just betting on low odds, but on the *smartest* bet avai
 
 Getting started is easy:
 
-1.  **Install a Userscript Manager:** You need a browser extension to run this script. We recommend [**Tampermonkey**](https://www.tampermonkey.net/).
-2.  **Install the Omni-Oracle Script:**
-    -   [**Click here to go to the installation page.**](https://github.com/your-username/your-repo/raw/main/omni-oracle.user.js) *(<- IMPORTANT: Link this to the raw file of your .js script)*
+
+1.  **Install the Omni-Oracle Script:**
+    -   [**Click here to go to the installation page.**]([https://raw.githubusercontent.com/hotsuper901/shuffle.com/refs/heads/main/free%20version.txt]) *(<- IMPORTANT: Link this to the raw file of your .js script)*
     -   A Tampermonkey page will open. Just click **"Install"**.
-3.  **Dominate Shuffle:**
+2.  **Dominate Shuffle:**
     -   Navigate to the [**Shuffle.com Sports**](https://shuffle.com/sports) section.
     -   The Omni-Oracle HUD will appear.
     -   Click **"SYNTHESIZE PROPHECY"** and watch the magic happen!
