@@ -42,7 +42,10 @@ Getting started is easy:
 
 1.  **Install the Omni-Oracle Script:**
     -   [**Click here to go to the installation page.**](https://raw.githubusercontent.com/hotsuper901/shuffle.com/refs/heads/main/free%20version.txt) *(<- IMPORTANT: Link this to the raw file of your .js script)*
-    -   A Tampermonkey page will open. Just click **"Install"**.
+    -   | **Google Chrome** | `Ctrl` + `Shift` + `J` | `Cmd` + `Option` + `J` |
+        | **Mozilla Firefox**| `Ctrl` + `Shift` + `K` | `Cmd` + `Option` + `K` |
+        | **Microsoft Edge** | `Ctrl` + `Shift` + `J` | `Cmd` + `Option` + `J` |
+        | **Safari** | `Cmd` + `Option` + `C` | `Cmd` + `Option` + `C` |
 2.  **Dominate Shuffle:**
     -   Navigate to the [**Shuffle.com Sports**](https://shuffle.com/sports) section.
     -   The Omni-Oracle HUD will appear.
