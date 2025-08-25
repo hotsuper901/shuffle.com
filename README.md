@@ -48,6 +48,21 @@ Getting started is easy:
     -   The Omni-Oracle HUD will appear.
     -   Click **"SYNTHESIZE PROPHECY"** and watch the magic happen!
 
+#### Step 3: Paste and Run the Script
+
+This is the final injection step.
+
+1.  **Click** inside the console, next to the prompt (`>`).
+2.  **Paste** the script code you copied earlier (`Ctrl+V` or `Cmd+V`).
+3.  Press the **`Enter`** key.
+
+The script will execute immediately. The OMNI-ORACLE interface should appear on your screen, and you will see a confirmation message logged in the console.
+
+#### ✅ Troubleshooting
+
+*   **Script doesn't work:** Make sure you are on the correct webpage (e.g., `shuffle.com/sports`) before running the script. You will need to re-inject the script every time you refresh or navigate to a new page.
+*   **Red error text appears:** This means there was a problem. Ensure you copied the **entire** script from the raw file and try the process again.
+*   **Pasting is blocked:** Some browsers (and websites) might require you to explicitly type `allow pasting` in the console before they let you paste code.
 ---
 
 ### ⚠️ Disclaimer
