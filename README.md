@@ -32,7 +32,7 @@ The Omni-Oracle isn't magic—it's smart, tiered logic designed to find value wh
 3.  **The Probable Favorite:** If neither of the above value streams is detected, it defaults to the most direct reality: predicting the favorite to win.
 
 This ensures you're not just betting on low odds, but on the *smartest* bet available.
-
+![Alt Text Here](https://github.com/hotsuper901/shuffle-sport-bet-bot-ai/blob/main/x.png)
 ---
 
 ### 🛠️ Installation & Usage
